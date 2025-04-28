@@ -3,7 +3,7 @@ This Power BI dashboard transforms messy, unstructured sales data from multiple 
 
 # Row Data --> Model --> Data Story
 
-![Screenshot](Screenshot (69).png)
+![Screenshot](https://github.com/chavigupta17/costco_db/blob/main/Screenshot%20(69).png?raw=true)
 
 # Key Features
 Data Cleaning & Transformation: Organized and structured unclean sales data for accurate analysis.
